@@ -1,1 +1,1 @@
-Parse your query with Wiki API and return the first title
+# Parse your query with Wiki API and return the first title
