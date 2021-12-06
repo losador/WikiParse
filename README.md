@@ -1,2 +1,1 @@
-"# WikiParse" 
-"# WikiParse" 
+Parse your query with Wiki API and return the first title
